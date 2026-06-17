@@ -11,11 +11,11 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=400&section=header&text=AGS%20SUDO&fontSize=110&fontAlignY=38&desc=Advanced%20Generation%20Systems%20%7C%20Root%20Access%20To%20The%20Future&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=450&section=header&text=AGS%20SUDO&fontSize=120&fontAlignY=35&desc=Advanced%20Generation%20Systems%20%7C%20Root%20Access%20To%20The%20Future&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3500&pause=500&color=F7811C&center=true&vCenter=true&multiline=true&random=false&width=900&height=100&lines=Full‑Stack+%26+Systems+Architect;Windows+%26+Network+Infrastructure;Security+%26+DevOps+Expertise;Quantum+%26+Edge+Computing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=4000&pause=500&color=F7811C&center=true&vCenter=true&multiline=true&random=false&width=950&height=110&lines=Full‑Stack+%26+Systems+Architect;Windows+%26+Network+Infrastructure;Security+%26+DevOps+Expertise;Quantum+%26+Edge+Computing;AI+%26+Machine+Learning" alt="Typing SVG">
 </p>
 
 <br>
