@@ -10,16 +10,18 @@
   Advanced Generation Systems
 -->
 
+<!-- ===== HEADER SECTION ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=450&section=header&text=AGS%20SUDO&fontSize=120&fontAlignY=35&desc=Advanced%20Generation%20Systems%20%7C%20Root%20Access%20To%20The%20Future&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=500&section=header&text=AGS%20SUDO&fontSize=130&fontAlignY=32&desc=Advanced%20Generation%20Systems%20%7C%20Root%20Access%20To%20The%20Future&descAlignY=52&animation=twinkling&fontColor=ffffff" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=4000&pause=500&color=F7811C&center=true&vCenter=true&multiline=true&random=false&width=950&height=110&lines=Full‑Stack+%26+Systems+Architect;Windows+%26+Network+Infrastructure;Security+%26+DevOps+Expertise;Quantum+%26+Edge+Computing;AI+%26+Machine+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=4000&pause=500&color=F7811C&center=true&vCenter=true&multiline=true&random=false&width=1000&height=120&lines=Full‑Stack+%26+Systems+Architect;Windows+%26+Network+Infrastructure;Security+%26+DevOps+Expertise;Quantum+%26+Edge+Computing;AI+%26+Machine+Learning" alt="Typing SVG">
 </p>
 
 <br>
 
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="https://agsnet.ir">
     <img src="https://img.shields.io/badge/🌐%20Website-agsnet.ir-F7811C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117">
@@ -40,6 +42,7 @@
 
 <br>
 
+<!-- ===== STATUS BADGES ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ags-sudo&color=F7811C&style=flat-square&label=👁️+Profile+Views" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/ags-sudo?style=flat-square&color=F7811C&label=👥+Followers" alt="Followers">
@@ -47,32 +50,67 @@
   <img src="https://img.shields.io/github/sponsors/ags-sudo?style=flat-square&color=F7811C&label=💖+Sponsors" alt="Sponsors">
   <img src="https://img.shields.io/badge/🟢-Operational-F7811C?style=flat-square&label=System+Status" alt="Status">
   <img src="https://img.shields.io/badge/📅-Since%202019-F7811C?style=flat-square&label=GitHub" alt="Since">
+  <img src="https://img.shields.io/badge/⚡-v3.0-F7811C?style=flat-square&label=Profile" alt="Version">
 </p>
 
 ---
+
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Live System Dashboard
 
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><b>🟢 System Status</b><br><sub>Operational</sub></td>
-      <td align="center" width="20%"><b>📈 Uptime</b><br><sub>99.997%</sub></td>
-      <td align="center" width="20%"><b>⚡ Response</b><br><sub>0.19ms</sub></td>
-      <td align="center" width="20%"><b>🔒 Security</b><br><sub>AES-256</sub></td>
-      <td align="center" width="20%"><b>🌐 Nodes</b><br><sub>156 Active</sub></td>
+      <td align="center" width="20%" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>🟢 System Status</b><br>
+        <sub style="color:#F7811C;">Operational</sub>
+      </td>
+      <td align="center" width="20%" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>📈 Uptime</b><br>
+        <sub style="color:#F7811C;">99.997%</sub>
+      </td>
+      <td align="center" width="20%" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>⚡ Response</b><br>
+        <sub style="color:#F7811C;">0.19ms</sub>
+      </td>
+      <td align="center" width="20%" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>🔒 Security</b><br>
+        <sub style="color:#F7811C;">AES-256</sub>
+      </td>
+      <td align="center" width="20%" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>🌐 Nodes</b><br>
+        <sub style="color:#F7811C;">156 Active</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center"><b>📊 Clients</b><br><sub>4,280+</sub></td>
-      <td align="center"><b>📁 Projects</b><br><sub>87+</sub></td>
-      <td align="center"><b>👥 Team</b><br><sub>12+ Experts</sub></td>
-      <td align="center"><b>📦 Repos</b><br><sub>87 Public</sub></td>
-      <td align="center"><b>🏆 Stars</b><br><sub>3,420+</sub></td>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>📊 Clients</b><br>
+        <sub style="color:#F7811C;">4,280+</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>📁 Projects</b><br>
+        <sub style="color:#F7811C;">87+</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>👥 Team</b><br>
+        <sub style="color:#F7811C;">12+ Experts</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>📦 Repos</b><br>
+        <sub style="color:#F7811C;">87 Public</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:12px;">
+        <b>🏆 Stars</b><br>
+        <sub style="color:#F7811C;">3,420+</sub>
+      </td>
     </tr>
   </table>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 The AGS Ecosystem
 
@@ -81,78 +119,130 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="12.5%"><b>⚡ SUDO</b><br><sub>Root Access & Security</sub></td>
-      <td align="center" width="12.5%"><b>🧠 AI</b><br><sub>Machine Learning & NLP</sub></td>
-      <td align="center" width="12.5%"><b>🎮 GAMES</b><br><sub>Game Development Studio</sub></td>
-      <td align="center" width="12.5%"><b>🌐 NET</b><br><sub>Network Infrastructure</sub></td>
-      <td align="center" width="12.5%"><b>🔒 IT</b><br><sub>Cybersecurity & Consulting</sub></td>
-      <td align="center" width="12.5%"><b>📊 EXEC</b><br><sub>Executive Management</sub></td>
-      <td align="center" width="12.5%"><b>☁️ CLOUD</b><br><sub>Cloud Solutions & Hosting</sub></td>
-      <td align="center" width="12.5%"><b>🛡️ SECURE</b><br><sub>Zero Trust Architecture</sub></td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>⚡ SUDO</b><br>
+        <sub>Root Access & Security</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🧠 AI</b><br>
+        <sub>Machine Learning & NLP</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🎮 GAMES</b><br>
+        <sub>Game Development Studio</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🌐 NET</b><br>
+        <sub>Network Infrastructure</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🔒 IT</b><br>
+        <sub>Cybersecurity & Consulting</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>📊 EXEC</b><br>
+        <sub>Executive Management</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>☁️ CLOUD</b><br>
+        <sub>Cloud Solutions & Hosting</sub>
+      </td>
+      <td align="center" width="12.5%" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🛡️ SECURE</b><br>
+        <sub>Zero Trust Architecture</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center"><b>⛓️ BLOCK</b><br><sub>Blockchain & Smart Contracts</sub></td>
-      <td align="center"><b>💾 DATA</b><br><sub>Big Data & Analytics</sub></td>
-      <td align="center"><b>⚡ EDGE</b><br><sub>Edge Computing & IoT</sub></td>
-      <td align="center"><b>🔬 QUANTUM</b><br><sub>Quantum Technology</sub></td>
-      <td align="center"><b>📚 LMS</b><br><sub>Learning Management</sub></td>
-      <td align="center"><b>👊 IRON</b><br><sub>Security Panel</sub></td>
-      <td align="center"><b>🔄 NEXUS</b><br><sub>Integration Platform</sub></td>
-      <td align="center"><b>🎯 CORE</b><br><sub>Enterprise Framework</sub></td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>⛓️ BLOCK</b><br>
+        <sub>Blockchain & Smart Contracts</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>💾 DATA</b><br>
+        <sub>Big Data & Analytics</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>⚡ EDGE</b><br>
+        <sub>Edge Computing & IoT</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🔬 QUANTUM</b><br>
+        <sub>Quantum Technology</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>📚 LMS</b><br>
+        <sub>Learning Management</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>👊 IRON</b><br>
+        <sub>Security Panel</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🔄 NEXUS</b><br>
+        <sub>Integration Platform</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:8px;">
+        <b>🎯 CORE</b><br>
+        <sub>Enterprise Framework</sub>
+      </td>
     </tr>
   </table>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Flagship Products
 
-### 🎓 AGS LMS v1.0 — Intelligent Learning Management System
-
+<!-- ===== AGS LMS CARD ===== -->
 <p align="center">
-  <a href="https://agsnet.ir/ags-lms">
-    <img src="https://img.shields.io/badge/📚%20AGS%20LMS%20v1.0-View%20Product-F7811C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117">
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%" style="background:#0D1117;border-radius:20px;padding:20px;border:1px solid #F7811C20;">
+        <p align="center">
+          <a href="https://agsnet.ir/ags-lms">
+            <img src="https://img.shields.io/badge/📚%20AGS%20LMS%20v1.0-View%20Product-F7811C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117">
+          </a>
+        </p>
+        <p align="center"><b>Intelligent Learning Management System</b></p>
+        <p align="center" style="font-size:0.85rem;color:#7D8590;">Enterprise-grade educational platform with AI integration</p>
+        <ul style="font-size:0.8rem;color:#C9D1D9;">
+          <li>🧠 AI-Powered Assistant</li>
+          <li>🛡️ Bank-Grade Security (AES-256)</li>
+          <li>📊 Real-time Analytics Dashboard</li>
+          <li>🎥 Virtual Classroom (Jitsi Meet)</li>
+          <li>📝 Advanced Exam System</li>
+          <li>💬 Built-in Messenger</li>
+          <li>🌐 Multi-language Support</li>
+          <li>🔄 API-First Architecture</li>
+        </ul>
+        <p align="center" style="font-size:0.75rem;color:#7D8590;">💡 Real-World: <a href="https://memath.ir" style="color:#F7811C;">memath.ir</a></p>
+      </td>
+      <td width="50%" style="background:#0D1117;border-radius:20px;padding:20px;border:1px solid #F7811C20;">
+        <p align="center">
+          <a href="https://memath.ir/iron-fist">
+            <img src="https://img.shields.io/badge/🥊%20IRON%20FIST%20PANEL-View%20Demo-F7811C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117">
+          </a>
+        </p>
+        <p align="center"><b>Next-Gen Administrative Control Panel</b></p>
+        <p align="center" style="font-size:0.85rem;color:#7D8590;">Powerful modular admin interface</p>
+        <ul style="font-size:0.8rem;color:#C9D1D9;">
+          <li>🖥️ Real-time System Health Monitoring</li>
+          <li>🔒 Role-Based Access Control</li>
+          <li>📈 Customizable Analytics Engine</li>
+          <li>🔧 Plug-and-Play Module System</li>
+          <li>🚀 Sub-300ms Response Time</li>
+          <li>🔄 Automated Backups</li>
+          <li>📱 Fully Mobile-Ready</li>
+        </ul>
+        <p align="center" style="font-size:0.75rem;color:#7D8590;">💡 Real-World: <a href="https://memath.ir/iron-fist" style="color:#F7811C;">memath.ir/iron-fist</a></p>
+      </td>
+    </tr>
+  </table>
 </p>
 
-> **AGS LMS** is a cutting-edge educational platform built with modern architecture, enterprise-grade security, and built-in AI capabilities. Designed for institutions, academies, and corporations seeking a comprehensive learning ecosystem.
-
-**🔥 Core Features:**
-- 🧠 **AI-Powered Assistant** — Intelligent chatbot with contextual learning recommendations
-- 🛡️ **Bank-Grade Security** — AES-256 encryption, CSRF protection, Brute Force prevention
-- 📊 **Analytics Dashboard** — Real-time insights, performance tracking, and predictive analytics
-- 🎥 **Virtual Classroom** — Integrated Jitsi Meet with recording capabilities
-- 📝 **Advanced Exam System** — Anti-cheating mechanisms, randomized questions, automatic grading
-- 💬 **Built-in Messenger** — Group/private chat with file sharing, reactions, and stickers
-- 🌐 **Multi-language Support** — Fully responsive with RTL/LTR compatibility
-- 🔄 **API-First Architecture** — RESTful APIs for seamless third-party integrations
-
-**💡 Real-World Example:** [memath.ir](https://memath.ir) — Powered by AGS LMS, serving thousands of students daily with intelligent learning pathways.
-
----
-
-### 🥊 IRON FIST PANEL — Next-Gen Administrative Control Panel
-
-<p align="center">
-  <a href="https://memath.ir/iron-fist">
-    <img src="https://img.shields.io/badge/🥊%20IRON%20FIST%20PANEL-View%20Demo-F7811C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117">
-  </a>
-</p>
-
-> **IRON FIST PANEL** is a powerful, modular administrative interface designed for system administrators, network engineers, and IT managers. Built with a focus on speed, security, and usability.
-
-**⚡ Core Capabilities:**
-- 🖥️ **System Health Monitoring** — Real-time server stats, resource usage, and uptime tracking
-- 🔒 **User Management** — Role-based access control with granular permissions
-- 📈 **Analytics Engine** — Customizable dashboards with exportable reports
-- 🔧 **Module System** — Plug-and-play architecture for unlimited extensibility
-- 🚀 **Performance Optimized** — Sub-300ms response time with Redis caching
-- 🔄 **Automated Backups** — Scheduled backups with one-click restore
-- 📱 **Mobile-Ready** — Fully responsive design with touch-friendly controls
-
-**💡 Real-World Example:** [memath.ir/iron-fist](https://memath.ir/iron-fist) — Managing the entire infrastructure of Memath Academy with zero downtime.
-
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 About the Architect
 
@@ -164,24 +254,49 @@
 
 > **Amirhossein Ghaemifar** — Senior Full-Stack Developer, Systems Architect, and Founder of AGS Group. With over a decade of experience in software development, network infrastructure, and cybersecurity.
 
-**🎯 Professional Focus:**
-- 🏗️ **Systems Architecture** — Designing scalable, distributed systems
-- 💻 **Full-Stack Development** — .NET, PHP, Python, React, Next.js
-- 🔐 **Security Engineering** — Zero Trust implementation, penetration testing
-- 🌐 **Network Infrastructure** — Cisco, MikroTik, pfSense, SD-WAN
-- ☁️ **Cloud & DevOps** — Azure, AWS, Docker, Kubernetes
-- 🧠 **AI/ML Integration** — NLP, Computer Vision, Predictive Analytics
-- ⚡ **Quantum & Edge** — Emerging technologies for next-gen solutions
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>🏗️ Systems Architecture</b><br>
+        <sub style="color:#7D8590;">Scalable, distributed systems</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>💻 Full-Stack Development</b><br>
+        <sub style="color:#7D8590;">.NET · PHP · Python · React · Next.js</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>🔐 Security Engineering</b><br>
+        <sub style="color:#7D8590;">Zero Trust · Penetration Testing</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>🌐 Network Infrastructure</b><br>
+        <sub style="color:#7D8590;">Cisco · MikroTik · pfSense · SD-WAN</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>☁️ Cloud & DevOps</b><br>
+        <sub style="color:#7D8590;">Azure · AWS · Docker · Kubernetes</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>🧠 AI/ML Integration</b><br>
+        <sub style="color:#7D8590;">NLP · Computer Vision · Predictive Analytics</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>⚡ Quantum & Edge</b><br>
+        <sub style="color:#7D8590;">Emerging technologies</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;">
+        <b>📊 Development Metrics</b><br>
+        <sub style="color:#7D8590;">87+ Repos · 3,420+ Stars · 2,140+ Contributions</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-**📊 Development Metrics:**
-- 🗂️ **87+** Public Repositories
-- ⭐ **3,420+** GitHub Stars
-- 🔀 **892+** Forks
-- 🤝 **2,140+** Contributions
-- 👥 **1,256+** Followers
-- 🏆 **28+** Achievements
-
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Technology Arsenal
 
@@ -189,79 +304,71 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,py,js,ts,rust,react,nextjs,nodejs,django,postgres,mysql,mongodb,docker,kubernetes,azure,aws,git,github,nginx,linux,windows,powershell&perline=12" alt="Tech Stack">
 </p>
 
-### 💻 Languages & Frameworks
+<!-- ===== TECHNOLOGY CARDS ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0D1117">
+  <table>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:8px;border:1px solid #F7811C20;">
+        <b>💻 Languages</b><br>
+        <sub style="color:#7D8590;">C# · .NET · PHP · Python · JavaScript · TypeScript · Rust · Go · PowerShell</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:8px;border:1px solid #F7811C20;">
+        <b>🌐 Frontend</b><br>
+        <sub style="color:#7D8590;">React · Next.js · Vue.js · WPF · .NET MAUI · Laravel · Django</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:8px;border:1px solid #F7811C20;">
+        <b>🗄️ Databases & DevOps</b><br>
+        <sub style="color:#7D8590;">SQL Server · PostgreSQL · MongoDB · Redis · Elasticsearch · Docker · Kubernetes · Azure · AWS · Terraform</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:8px;border:1px solid #F7811C20;">
+        <b>🔐 Security & Networking</b><br>
+        <sub style="color:#7D8590;">Cisco · MikroTik · pfSense · Zero Trust · Wireshark · Nmap · Metasploit</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:16px;padding:8px;border:1px solid #F7811C20;">
+        <b>📊 Monitoring & Analytics</b><br>
+        <sub style="color:#7D8590;">Prometheus · Grafana · ELK Stack · Datadog</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
-### 🌐 Frontend & Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117">
-</p>
-
-### 🗄️ Databases & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117">
-</p>
-
-### 🔐 Networking & Security
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117">
-</p>
-
-### 📊 Monitoring & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0D1117">
-</p>
-
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics Dashboard
 
+<!-- ===== STATS CARDS ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ags-sudo&show_icons=true&count_private=true&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&hide=issues&custom_title=📈%20GitHub%20Statistics&include_all_commits=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ags-sudo&theme=dark&hide_border=true&ring=F7811C&fire=F7811C&currStreakLabel=F7811C&background=0D1117&stroke=0D1117" width="49%">
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ags-sudo&show_icons=true&count_private=true&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&hide=issues&custom_title=📈%20GitHub%20Statistics&include_all_commits=true" width="100%">
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ags-sudo&theme=dark&hide_border=true&ring=F7811C&fire=F7811C&currStreakLabel=F7811C&background=0D1117&stroke=0D1117" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ags-sudo&layout=compact&hide_border=true&title_color=F7811C&text_color=C9D1D9&bg_color=0D1117&langs_count=12&exclude_repo=ags-sudo" width="100%">
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-profile-trophy.vercel.app/?username=ags-sudo&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues,Reviews" width="100%">
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ags-sudo&layout=compact&hide_border=true&title_color=F7811C&text_color=C9D1D9&bg_color=0D1117&langs_count=12&exclude_repo=ags-sudo" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=ags-sudo&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues,Reviews" width="49%">
-</p>
-
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Activity Graph
 
@@ -269,7 +376,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ags-sudo&custom_title=🔥%20Contribution%20Graph%20%7C%20Amirhossein%20Ghaemifar&hide_border=true&bg_color=0D1117&color=F7811C&line=F7811C&point=F7811C&area=true&area_color=F7811C&radius=16&height=350" width="100%">
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -277,38 +385,55 @@
   <img src="https://raw.githubusercontent.com/ags-sudo/ags-sudo/output/snake.svg" alt="Snake Game Contribution" width="100%">
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
+<!-- ===== PROJECT CARDS ===== -->
 <p align="center">
-  <a href="https://github.com/ags-sudo/AGS.LMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.LMS&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Intelligent+Learning+Management+System" width="45%">
-  </a>
-  <a href="https://github.com/ags-sudo/IronFist.Panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=IronFist.Panel&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Next-Gen+Administrative+Control+Panel" width="45%">
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/AGS.LMS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.LMS&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Intelligent+Learning+Management+System" width="100%">
+        </a>
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/IronFist.Panel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=IronFist.Panel&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Next-Gen+Administrative+Control+Panel" width="100%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/NetMonitor.Pro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=NetMonitor.Pro&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Real-time+Network+Monitoring+Suite" width="100%">
+        </a>
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/QuantumFS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=QuantumFS&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Distributed+File+System+with+Quantum+Cryptography" width="100%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/AGS.Auth">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.Auth&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Enterprise+Authentication+System" width="100%">
+        </a>
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <a href="https://github.com/ags-sudo/AGS.Edge">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.Edge&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Edge+Computing+%26+IoT+Framework" width="100%">
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ags-sudo/NetMonitor.Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=NetMonitor.Pro&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Real-time+Network+Monitoring+Suite" width="45%">
-  </a>
-  <a href="https://github.com/ags-sudo/QuantumFS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=QuantumFS&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Distributed+File+System+with+Quantum+Cryptography" width="45%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ags-sudo/AGS.Auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.Auth&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Enterprise+Authentication+System" width="45%">
-  </a>
-  <a href="https://github.com/ags-sudo/AGS.Edge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ags-sudo&repo=AGS.Edge&theme=dark&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&description=Edge+Computing+%26+IoT+Framework" width="45%">
-  </a>
-</p>
-
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📦 Quick Access
 
@@ -324,35 +449,119 @@
   </a>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Current Focus
 
 <p align="center">
   <table>
     <tr>
-      <td align="center">🧠 <b>AGS LMS v2.0</b><br>AI-Powered Learning Platform</td>
-      <td align="center">⚡ <b>Quantum Cryptography</b><br>Post-Quantum Security Research</td>
-      <td align="center">🔗 <b>Edge Computing</b><br>Distributed IoT Networks</td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>🧠 AGS LMS v2.0</b><br>
+        <sub style="color:#7D8590;">AI-Powered Learning Platform</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>⚡ Quantum Cryptography</b><br>
+        <sub style="color:#7D8590;">Post-Quantum Security Research</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>🔗 Edge Computing</b><br>
+        <sub style="color:#7D8590;">Distributed IoT Networks</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center">🛡️ <b>Zero Trust Framework</b><br>Enterprise Security Architecture</td>
-      <td align="center">📊 <b>Big Data Analytics</b><br>Real-Time Predictive Models</td>
-      <td align="center">☁️ <b>Cloud-Native Solutions</b><br>Kubernetes & Serverless</td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>🛡️ Zero Trust Framework</b><br>
+        <sub style="color:#7D8590;">Enterprise Security Architecture</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>📊 Big Data Analytics</b><br>
+        <sub style="color:#7D8590;">Real-Time Predictive Models</sub>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>☁️ Cloud-Native Solutions</b><br>
+        <sub style="color:#7D8590;">Kubernetes & Serverless</sub>
+      </td>
     </tr>
   </table>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📅 GitHub Timeline
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ags-sudo&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&custom_title=⏱️%20Coding%20Activity" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=ags-sudo&show_icons=true&count_private=true&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&hide=issues&custom_title=📊%20Commit%20History&include_all_commits=true" width="49%">
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ags-sudo&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&custom_title=⏱️%20Coding%20Activity" width="100%">
+      </td>
+      <td width="50%" align="center" style="background:#0D1117;border-radius:16px;padding:16px;border:1px solid #F7811C20;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ags-sudo&show_icons=true&count_private=true&hide_border=true&title_color=F7811C&icon_color=F7811C&text_color=C9D1D9&bg_color=0D1117&hide=issues&custom_title=📊%20Commit%20History&include_all_commits=true" width="100%">
+      </td>
+    </tr>
+  </table>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 Project Statistics
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>📁 Total Repositories</b><br>
+        <code>87</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>⭐ Total Stars</b><br>
+        <code>3,420</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>🔀 Total Forks</b><br>
+        <code>892</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>👥 Total Contributors</b><br>
+        <code>47</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>📅 Last Commit</b><br>
+        <code>2026-06-17</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>📊 Code Size</b><br>
+        <code>~15.2 MB</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>📝 Open Issues</b><br>
+        <code>12</code>
+      </td>
+      <td align="center" style="background:#0D1117;border-radius:12px;padding:12px;border:1px solid #F7811C20;">
+        <b>🔄 Merged PRs</b><br>
+        <code>34</code>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ags-sudo&layout=pie&hide_border=true&title_color=F7811C&text_color=C9D1D9&bg_color=0D1117&langs_count=10&exclude_repo=ags-sudo" width="60%">
+</p>
+
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌍 Connect & Collaborate
 
@@ -380,51 +589,12 @@
   </a>
 </p>
 
----
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Project Statistics
-
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><b>📁 Total Repositories</b></td>
-      <td align="center"><b>⭐ Total Stars</b></td>
-      <td align="center"><b>🔀 Total Forks</b></td>
-      <td align="center"><b>👥 Total Contributors</b></td>
-    </tr>
-    <tr>
-      <td align="center"><code>87</code></td>
-      <td align="center"><code>3,420</code></td>
-      <td align="center"><code>892</code></td>
-      <td align="center"><code>47</code></td>
-    </tr>
-    <tr>
-      <td align="center"><b>📅 Last Commit</b></td>
-      <td align="center"><b>📊 Code Size</b></td>
-      <td align="center"><b>📝 Issues</b></td>
-      <td align="center"><b>🔄 Pull Requests</b></td>
-    </tr>
-    <tr>
-      <td align="center"><code>2026-06-17</code></td>
-      <td align="center"><code>~15.2 MB</code></td>
-      <td align="center"><code>12 Open</code></td>
-      <td align="center"><code>34 Merged</code></td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🎯 Language Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ags-sudo&layout=pie&hide_border=true&title_color=F7811C&text_color=C9D1D9&bg_color=0D1117&langs_count=10&exclude_repo=ags-sudo" width="60%">
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=200&section=footer&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24,26&height=220&section=footer&animation=twinkling" width="100%">
 </p>
 
 <p align="center">
@@ -437,9 +607,38 @@
   <sub>Developed by <b>Amirhossein Ghaemifar</b></sub>
 </p>
 
-<!-- SEO Meta -->
 <!-- 
+  ============================================================
+  SEO Meta Data (for search engines and crawlers)
+  ============================================================
   Author: Amirhossein Ghaemifar
-  Keywords: AGS, SUDO, Amirhossein Ghaemifar, Full-Stack Developer, Systems Architect, Network Engineer, Cybersecurity, PHP, .NET, React, Next.js, Docker, Kubernetes, Azure, AWS, Quantum Computing, Edge Computing, AI, Machine Learning, Blockchain, Zero Trust
+  Title: AGS-SUDO | Amirhossein Ghaemifar | Full-Stack Developer & Systems Architect
   Description: Professional GitHub profile of Amirhossein Ghaemifar, Senior Full-Stack Developer, Systems Architect, and Founder of AGS Group. Specializing in software development, network infrastructure, cybersecurity, and emerging technologies.
+  Keywords: 
+    - Amirhossein Ghaemifar
+    - AGS
+    - SUDO
+    - Full-Stack Developer
+    - Systems Architect
+    - Network Engineer
+    - Cybersecurity
+    - PHP
+    - .NET
+    - React
+    - Next.js
+    - Docker
+    - Kubernetes
+    - Azure
+    - AWS
+    - Quantum Computing
+    - Edge Computing
+    - AI
+    - Machine Learning
+    - Blockchain
+    - Zero Trust
+    - GitHub Profile
+    - Software Engineer
+    - Tabriz
+    - Iran
+  ============================================================
 -->
